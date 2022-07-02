@@ -26,6 +26,7 @@
 #include "vial.h"
 #endif
 
+//default 16
 #ifndef DYNAMIC_KEYMAP_MACRO_COUNT
 #    define DYNAMIC_KEYMAP_MACRO_COUNT 16
 #endif
